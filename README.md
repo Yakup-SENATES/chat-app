@@ -1,4 +1,4 @@
-[For The Demo ](https://jacops-chat.netlify.app/).
+[For The Demo ](https://jacops-chat.netlify.app/) username : demo, password: 1234
 
 # Getting Started with Create React App
 
